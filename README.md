@@ -6,7 +6,7 @@ Assumed
 1. Ubuntu server on EC2 or awslightsail
 2. connect server using SSH key
 3. Project files in github and ssh key added to git
-4. mySQL server installed and configured.
+4. MySQL server installed and configured.
 
 1. Logged into ubuntu server using SSH key and update
 
