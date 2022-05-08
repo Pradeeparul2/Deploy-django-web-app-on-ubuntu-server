@@ -85,6 +85,11 @@ it will run port on 8000 example http://yourpublicip:8000. it works fine lets co
     		ErrorLog ${APACHE_LOG_DIR}/error.log
     		CustomLog ${APACHE_LOG_DIR}/access.log combined
 		</VirtualHost>
+
+14. enable apache conf 
+
+		sudo a2ensite domain.conf
+		sudo service apache2 restart
 		
 13. Gave permission to server access files
 
