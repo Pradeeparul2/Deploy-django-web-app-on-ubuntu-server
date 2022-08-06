@@ -8,6 +8,8 @@ Assumed
 3. Project files in github and ssh key added to git
 4. MySQL server installed and configured.
 
+#
+
 1. Logged into ubuntu server using SSH key and update
 
 		sudo apt-get update
@@ -20,9 +22,9 @@ Assumed
 
 		python3 -m venv myvenv
 		
-if geting any error try below comment
+if getting any error try below comment
 
-		sudo apt install -y python3-venv
+	sudo apt install -y python3-venv
 		
 4. activate virtual environment
 
